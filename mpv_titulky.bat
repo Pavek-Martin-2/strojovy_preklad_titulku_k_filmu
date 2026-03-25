@@ -6,7 +6,6 @@ set tit="prelozene_titulky.srt"
 REM set font="10"
 set font="40"
 
-
 REM Bílá	--sub-color="#FFFFFF"
 REM Žlutá	--sub-color="#FFFF00"
 REM Zelená	--sub-color="#00FF00"
@@ -15,7 +14,6 @@ REM Červená	--sub-color="#FF0000"
 REM Cyan        --sub-color="#00FFFF"
 
 set barva="#00FFFF"
-
 
 REM Černá	#000000
 REM Bílá	#FFFFFF
@@ -43,11 +41,3 @@ REM mpv.exe -fs --sub-file=%tit% --sub-font-size=%font% --sub-color=%barva% --su
 mpv.exe -fs --sub-file=%tit% --sub-font-size=%font% --sub-color=%barva% --sub-back-color=%pozadi% --sub-border-size=%border% %file%
 
 pause
-
-
-
-
-
-
-
-
