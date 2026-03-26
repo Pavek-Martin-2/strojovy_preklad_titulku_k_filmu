@@ -1,6 +1,6 @@
 @echo off
 
-set file="film.mp4"
+set file="Nikolajevova.mp4"
 set tit="prelozene_titulky.srt"
 
 REM set font="10"
@@ -41,3 +41,4 @@ REM mpv.exe -fs --sub-file=%tit% --sub-font-size=%font% --sub-color=%barva% --su
 mpv.exe -fs --sub-file=%tit% --sub-font-size=%font% --sub-color=%barva% --sub-back-color=%pozadi% --sub-border-size=%border% %file%
 
 pause
+
