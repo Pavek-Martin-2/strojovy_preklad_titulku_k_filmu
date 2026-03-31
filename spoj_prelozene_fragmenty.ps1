@@ -6,7 +6,7 @@ zavineno limitem poctu radku ktere zle zpracovat najednou pomoci Google preklada
 #>
 
 $adresar_fragmenty = "prelozit_fragmenty"
-$cekej = 0
+$cekej = 5
 
 # test existence adreasre "prelozit_fragmenty"
 $fileExist = Test-Path $adresar_fragmenty
@@ -56,7 +56,6 @@ $pole_spojene_fragmenty += $line_read
 $stream_reader.close()
 }
 
-
 $d_pole_spojene_fragmenty = $pole_spojene_fragmenty.Length
 Write-Host -ForegroundColor Yellow "celkem bylo ze vsech souboru fragmentu nacteno $d_pole_spojene_fragmenty radku titulku"
 
@@ -67,8 +66,4 @@ Set-Content -Path $file_spojene -Encoding Unicode -Value $pole_spojene_fragmenty
 # duleziti je tady Unicode ( diakritika ), takze ne Ascii
 Write-Host -ForegroundColor Cyan "vsechno ulozeno do souboru $file_spojene"
 sleep 10
-
-
-
-
 
