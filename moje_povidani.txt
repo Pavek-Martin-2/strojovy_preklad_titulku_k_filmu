@@ -29,3 +29,40 @@ bylo 200 radku textu u stare verze tak ted predpokladam ze by muselo byt asi 100
 nezli pretim...
 
 
+pridano 4.4.2026
+jeste me napadlo ze vlastne nebyl popsan zpusob, jak dostat stazene titulky "srt" do jak ja rikam "velkeho"
+pocitace, teda myslim notebook z Windows, zpusobu je nekolik napr. stazeny soubor titulku se v tabletu
+nahraje na "sdilej.cz" opise se adresa a pak se velkem pocitaci soubor stahne, podobnej priklad je si
+poslat sam sobe email, jako prilohu k emailu dat soubor "srt" a nedat odeslat ale dat ulozit jako koncept
+,nebo tak nejak to tam je, no a potom zase na velkem pc v emailu stahnout ulozenou prilohu
+pravda je ze tanhleten zpusob jsem vlastne nikdy nezkousel ale myslim si ze by to jit melo
+co me napada dale je nejakej ten Goggle disk, kterej existuje jak pro Android tak pro Windows
+a nejlesi je si poridit Android apikaci Total Commander (je znama taky z Windows) to je podle me a nejenom
+podle me, vstupni brana k odstraneni problemu ze spravou souboru na androidu a Windows obecne
+Total Commander umoznuje pohodlne posilani souboru z tabletu pre Bluetooth do jineho zarizeni
+vlastne nepouzivam nic jiniho, no jeste pouzivam synchronizaci na externi usb disk kdyz je toho hodne
+napriklad nejaky videa ktery maj stovky Mb apod. ale to popisouvat nebudu
+
+instalace aplikace NewPipe z balicku "apk" lze na andridu provect nejlepe z toho jejich App Store
+a nebo ve spravci souboru v Androidu viz screenshoty ve slozce "src\" dale pak v jiz nainstalovane
+aplikaci NewPipe je zalozka "nastaveni" kde se nastavuji ruzne cesty kam se maji ukladat stazene
+titulky videa apod. a ti se potom pomoci Total Commanderu z toho to umisteni daji poslat pre Bluetooth
+jinam, jinak aplikace Total Commander umoznuje i "zipovat" takze se da "zazipovat" vice souboru do
+jednoho archivu a tam pak cely poslat pres Bluetooth jinam, urcite je to lepsi zpusob nez posilat
+treba padesat jednotlivich souboru jeden podruhem
+
+jeste takovej tip, uz jsem to ale taky psal nekde jinde prejmenujte balicek Anroidi aplikace soubor 
+"NewPipe  0.28.2.apk" treba na "neco.zip" a pokud mate na svem stolnim pc naistalovani program 
+"WinRAR" ( vetsina lidi ho ma :) tak dejte tento soubor otevrit ve WinRAR-U a muzete se podivat
+co "balicek" obsahuje, do adresare "src\" jsem dal dva screenshoty, jestli treba umite nekdo v
+jazyku "Java" a nebo "Kotlin" tak si muzete pocist
+
+jeste me napadla takova story - kdysi davno se "Total Commander" puvodne jmenoval "Windows Commander" 
+("Android" vte dobe jeste nebyl) no a Microsoft si tenrat stezoval ze "Windows" je vlastne ochrana
+znamka nebo tak neco a ze to nesmej pouzit tak voni aby je nasraly tak to prejmenovali priznacne
+na "Total Commander" takze toliko malej vylet do historie
+jinymi slovy nedokazu si zivot bez "Total Commanderu" at uz na jakoukoliv platformu, predstavit
+vopravdu plati to co rikaj kluci "tucnaci" z "LinuxDays" apod. ze to co nosite v kapse nejni vase
+(a ja bych ktomu jeste doplnil, ze z mnoha duvodu)
+
+
